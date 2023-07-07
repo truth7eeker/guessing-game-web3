@@ -3,7 +3,7 @@ import Web3 from 'web3';
 import abiData from '../../GuessTheNumberGame.json';
 import { getItem, setItem } from '../../helpers/localStorage';
 
-const contractAddress = '0xD1239bB8C9e858B0AEa4C5E3E94A17A1C2caBA62';
+const contractAddress = '0x0084Bf966Ff9E3a4B0BC8855B142Fc183A7A8597';
 const abi = abiData[0].abi;
 
 function Game({
